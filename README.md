@@ -4,7 +4,7 @@
 
 # Description:
 
-### Excel clone is built using electron framework with technologies such as HTML, CSS, JQuery and Ejs as a templating engine .
+### Excel Clone is built using technologies such as HTML, CSS, JavaScript ans socket.io .
 ### Some features of this project are -
 - Formula evaluation
 - Cycle detection in formula
